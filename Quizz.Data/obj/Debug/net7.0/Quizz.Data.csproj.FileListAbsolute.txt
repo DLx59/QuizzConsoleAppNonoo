@@ -1,0 +1,12 @@
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\bin\Debug\net7.0\Quizz.Data.deps.json
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\bin\Debug\net7.0\Quizz.Data.dll
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\bin\Debug\net7.0\Quizz.Data.pdb
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\Quizz.Data.csproj.AssemblyReference.cache
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\Quizz.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\Quizz.Data.AssemblyInfoInputs.cache
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\Quizz.Data.AssemblyInfo.cs
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\Quizz.Data.csproj.CoreCompileInputs.cache
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\Quizz.Data.dll
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\refint\Quizz.Data.dll
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\Quizz.Data.pdb
+C:\DEV\Workspace\Exercices\C#\Quizz\Quizz.Data\obj\Debug\net7.0\ref\Quizz.Data.dll
